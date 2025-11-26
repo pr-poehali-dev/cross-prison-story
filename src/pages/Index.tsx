@@ -130,7 +130,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-8 mb-12">
             <Card className="overflow-hidden">
               <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Crosses_Prison_SPB.jpg/1280px-Crosses_Prison_SPB.jpg" 
+                src="https://cdn.poehali.dev/projects/1445c7ff-0dd1-44d4-92c8-befddf6eac6e/files/060278ee-5bb8-439c-babd-7b0edcb4bf1b.jpg" 
                 alt="Кресты - вид с высоты"
                 className="w-full h-80 object-cover"
               />
